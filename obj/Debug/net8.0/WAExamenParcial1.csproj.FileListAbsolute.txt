@@ -1,0 +1,7 @@
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.AssemblyInfoInputs.cache
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.AssemblyInfo.cs
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.csproj.CoreCompileInputs.cache
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.RazorAssemblyInfo.cache
+C:\Users\ADSA\Documents\ProyectosC#\WAExamenParcial1\obj\Debug\net8.0\WAExamenParcial1.RazorAssemblyInfo.cs
